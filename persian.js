@@ -67,7 +67,7 @@
     //Version
     persianJs.version = VERSION;
 
-    //Prototype
+    //Prototype 
     persianJs.fn = PersianJs.prototype = {
         clone: function () {
             return persianJs(this);
