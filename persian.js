@@ -19,7 +19,7 @@
 
     /**
      * Used for convert Arabic characters to Persian
-     *
+     * 
      * @param {String} value 
      * @return {String} Returns Converted string
      * @api private
