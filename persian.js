@@ -1,8 +1,8 @@
-/*
+/* 
  * PersianJs v0.1.0
- * https://github.com/usablica/persian.js
- * MIT licensed
- *
+ * https://github.com/usablica/persian.js 
+ * MIT licensed 
+ * 
  * Copyright (C) 2012 usabli.ca and other contributors
  */
 (function () {
